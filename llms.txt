@@ -1,0 +1,10 @@
+# Clínica Déjà — Portal da Marca
+
+> Biblioteca da identidade visual da Clínica Déjà.
+
+- [Instruções para IA](instrucoes-ia.md): regras resumidas para Claude, Lovable e outras ferramentas.
+- [Guia completo](guia-design-system.md): regras oficiais e recomendações de aplicação.
+- [Tokens](tokens.json): cores, fontes, espaçamento, prioridades e escalas derivadas.
+- [Manual visual](manual-visual-deja.pdf): guia ilustrado v3.3.
+- [Prompts de fotografia](prompts-mosaicos.json): prompts completos usados na geração dos mosaicos.
+- [Escalas de cores](escalas-cores.csv): valores HEX dos cinco níveis claros e escuros.
