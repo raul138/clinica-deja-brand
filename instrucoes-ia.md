@@ -9,7 +9,7 @@ Use estas regras para criar peças da Clínica Déjà, clínica de ginecologia r
 4. Areia #DDCFC3
 5. Oliva #939266
 6. Oliva escuro #59583E (apoio)
-Priorize as opções 1 a 5. Off-white predomina; ameixa cria contraste. Consulte tokens.json para as oito combinações de aplicação, na ordem 1 2 3 4 / 5 6 7 8. Escalas derivadas claras e escuras possuem cinco níveis e não substituem as cores-base.
+Priorize as opções 1 a 5. Off-white predomina; ameixa cria contraste. Consulte https://raul138.github.io/clinica-deja-brand/tokens.json para as oito combinações de aplicação, na ordem 1 2 3 4 / 5 6 7 8. Escalas derivadas claras e escuras possuem cinco níveis e não substituem as cores-base.
 
 ## Tipografia
 Instrument Serif Regular: títulos. Instrument Serif Italic: ênfases curtas nos títulos. Figtree Light: corpo. Figtree SemiBold: subtítulos, etiquetas e chamadas. Entrelinha: 1,04 nos títulos e 1,22 no corpo. Entreletras: -0,015 em nos títulos e -0,01 em no corpo e etiquetas.
@@ -23,5 +23,54 @@ Use as referências dos mosaicos de atmosfera, mulher, sombras e silhuetas e nat
 ## Composição
 Uma mensagem por peça, espaço em branco, hierarquia editorial e eixo de alinhamento consistente. Em arte de 1080 px, começar com margem de 80 px. Títulos 80–112 px; subtítulos 48–60 px; corpo 36–44 px; etiquetas 28–32 px. Ajustar e conferir no tamanho real. Stories: reservar inicialmente 250 px no topo e na base para a interface.
 
-## Referência
-Consulte o manual visual, o guia editável, tokens.json e os arquivos originais disponíveis no mesmo endereço deste documento. Preserve estas regras nas próximas criações. Se a ferramenta não puder abrir o link, adicione este texto ao conhecimento do projeto e envie os arquivos necessários.
+## Como usar os arquivos
+Leia as regras deste documento e o guia completo antes de criar. Consulte os tokens para cores e espaçamento. Carregue ou baixe as fontes TTF a partir dos links abaixo. Use o PNG oficial do logo com assinatura como primeira opção; em sites, use sua URL absoluta no atributo src. Use os mosaicos como referência visual de direção fotográfica. Preserve estas regras nas próximas criações. Se a ferramenta não puder abrir os links, adicione este texto ao conhecimento do projeto e envie os arquivos necessários.
+
+
+## Links absolutos
+
+Portal público: https://raul138.github.io/clinica-deja-brand/
+
+Todos os links abaixo apontam diretamente para arquivos públicos, sem exigir login.
+
+### Guias, dados e downloads
+
+- Manual visual ilustrado: https://raul138.github.io/clinica-deja-brand/manual-visual-deja.pdf
+- Guia editável completo: https://raul138.github.io/clinica-deja-brand/guia-design-system.md
+- Instruções para IA: https://raul138.github.io/clinica-deja-brand/instrucoes-ia.md
+- Tokens de design: https://raul138.github.io/clinica-deja-brand/tokens.json
+- Escalas HEX: https://raul138.github.io/clinica-deja-brand/escalas-cores.csv
+- Prompts completos dos mosaicos: https://raul138.github.io/clinica-deja-brand/prompts-mosaicos.json
+- Índice de referências para IA: https://raul138.github.io/clinica-deja-brand/llms.txt
+- Manifesto de arquivos e URLs: https://raul138.github.io/clinica-deja-brand/assets.json
+- Kit de arquivos: https://raul138.github.io/clinica-deja-brand/kit-deja.zip
+
+### Fontes originais
+
+- Instrument Serif Regular — títulos: https://raul138.github.io/clinica-deja-brand/InstrumentSerif-Regular.ttf
+- Instrument Serif Italic — ênfase: https://raul138.github.io/clinica-deja-brand/InstrumentSerif-Italic.ttf
+- Figtree Light — corpo: https://raul138.github.io/clinica-deja-brand/Figtree-Light.ttf
+- Figtree SemiBold — subtítulos e chamadas: https://raul138.github.io/clinica-deja-brand/Figtree-SemiBold.ttf
+
+### Logos oficiais
+
+- Primário: com assinatura, preto: https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_TAG_PRETO_FINAL.png
+- Primário: com assinatura, branco: https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_TAG_BRANCO_FINAL.png
+- Alternativo: sem assinatura, preto: https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_PRETO_FINAL.png
+- Alternativo: sem assinatura, branco: https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_BRANCO_FINAL.png
+
+### Imagens de referência
+
+- Atmosfera — mosaico de oito fotos: https://raul138.github.io/clinica-deja-brand/mosaico-atmosfera.png
+- Mulher — mosaico de oito fotos: https://raul138.github.io/clinica-deja-brand/mosaico-mulher.png
+- Sombras e silhuetas — mosaico de oito fotos: https://raul138.github.io/clinica-deja-brand/mosaico-sombras-silhuetas.png
+- Natureza — mosaico de oito fotos: https://raul138.github.io/clinica-deja-brand/mosaico-natureza.png
+
+### Licenças das fontes
+
+- Licença Figtree: https://raul138.github.io/clinica-deja-brand/OFL-figtree.txt
+- Licença Instrument Serif: https://raul138.github.io/clinica-deja-brand/OFL-instrumentserif.txt
+
+### Uso em um site
+
+Carregue as fontes com @font-face usando as URLs TTF acima. Use os logos PNG nas respectivas URLs, mantendo a proporção e o respiro. Para imagens, consulte o mosaico da categoria correspondente antes de escolher ou gerar uma foto. As fotos dos mosaicos são referências geradas por IA.

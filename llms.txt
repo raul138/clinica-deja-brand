@@ -1,10 +1,39 @@
 # Clínica Déjà — Portal da Marca
 
-> Biblioteca da identidade visual da Clínica Déjà.
+> Biblioteca pública da identidade visual da Clínica Déjà. Comece pelas instruções para IA e pelo guia completo.
 
-- [Instruções para IA](instrucoes-ia.md): regras resumidas para Claude, Lovable e outras ferramentas.
-- [Guia completo](guia-design-system.md): regras oficiais e recomendações de aplicação.
-- [Tokens](tokens.json): cores, fontes, espaçamento, prioridades e escalas derivadas.
-- [Manual visual](manual-visual-deja.pdf): guia ilustrado v3.3.
-- [Prompts de fotografia](prompts-mosaicos.json): prompts completos usados na geração dos mosaicos.
-- [Escalas de cores](escalas-cores.csv): valores HEX dos cinco níveis claros e escuros.
+Portal: https://raul138.github.io/clinica-deja-brand/
+
+## Guias, dados e downloads
+
+- [Manual visual ilustrado](https://raul138.github.io/clinica-deja-brand/manual-visual-deja.pdf)
+- [Guia editável completo](https://raul138.github.io/clinica-deja-brand/guia-design-system.md)
+- [Instruções para IA](https://raul138.github.io/clinica-deja-brand/instrucoes-ia.md)
+- [Tokens de design](https://raul138.github.io/clinica-deja-brand/tokens.json)
+- [Escalas HEX](https://raul138.github.io/clinica-deja-brand/escalas-cores.csv)
+- [Prompts completos dos mosaicos](https://raul138.github.io/clinica-deja-brand/prompts-mosaicos.json)
+- [Índice de referências para IA](https://raul138.github.io/clinica-deja-brand/llms.txt)
+- [Manifesto de arquivos e URLs](https://raul138.github.io/clinica-deja-brand/assets.json)
+- [Kit de arquivos](https://raul138.github.io/clinica-deja-brand/kit-deja.zip)
+## Fontes originais
+
+- [Instrument Serif Regular — títulos](https://raul138.github.io/clinica-deja-brand/InstrumentSerif-Regular.ttf)
+- [Instrument Serif Italic — ênfase](https://raul138.github.io/clinica-deja-brand/InstrumentSerif-Italic.ttf)
+- [Figtree Light — corpo](https://raul138.github.io/clinica-deja-brand/Figtree-Light.ttf)
+- [Figtree SemiBold — subtítulos e chamadas](https://raul138.github.io/clinica-deja-brand/Figtree-SemiBold.ttf)
+## Logos oficiais
+
+- [Primário: com assinatura, preto](https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_TAG_PRETO_FINAL.png)
+- [Primário: com assinatura, branco](https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_TAG_BRANCO_FINAL.png)
+- [Alternativo: sem assinatura, preto](https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_PRETO_FINAL.png)
+- [Alternativo: sem assinatura, branco](https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_BRANCO_FINAL.png)
+## Imagens de referência
+
+- [Atmosfera — mosaico de oito fotos](https://raul138.github.io/clinica-deja-brand/mosaico-atmosfera.png)
+- [Mulher — mosaico de oito fotos](https://raul138.github.io/clinica-deja-brand/mosaico-mulher.png)
+- [Sombras e silhuetas — mosaico de oito fotos](https://raul138.github.io/clinica-deja-brand/mosaico-sombras-silhuetas.png)
+- [Natureza — mosaico de oito fotos](https://raul138.github.io/clinica-deja-brand/mosaico-natureza.png)
+## Licenças das fontes
+
+- [Licença Figtree](https://raul138.github.io/clinica-deja-brand/OFL-figtree.txt)
+- [Licença Instrument Serif](https://raul138.github.io/clinica-deja-brand/OFL-instrumentserif.txt)

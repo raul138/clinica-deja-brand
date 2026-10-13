@@ -1,0 +1,134 @@
+{
+  "brand": "Clínica Déjà",
+  "portal_url": "https://raul138.github.io/clinica-deja-brand/",
+  "repository_url": "https://github.com/raul138/clinica-deja-brand",
+  "url_type": "absolute",
+  "primary_logo": "com assinatura institucional",
+  "assets": {
+    "documents": [
+      {
+        "label": "Manual visual ilustrado",
+        "file": "manual-visual-deja.pdf",
+        "url": "https://raul138.github.io/clinica-deja-brand/manual-visual-deja.pdf"
+      },
+      {
+        "label": "Guia editável completo",
+        "file": "guia-design-system.md",
+        "url": "https://raul138.github.io/clinica-deja-brand/guia-design-system.md"
+      },
+      {
+        "label": "Instruções para IA",
+        "file": "instrucoes-ia.md",
+        "url": "https://raul138.github.io/clinica-deja-brand/instrucoes-ia.md"
+      },
+      {
+        "label": "Tokens de design",
+        "file": "tokens.json",
+        "url": "https://raul138.github.io/clinica-deja-brand/tokens.json"
+      },
+      {
+        "label": "Escalas HEX",
+        "file": "escalas-cores.csv",
+        "url": "https://raul138.github.io/clinica-deja-brand/escalas-cores.csv"
+      },
+      {
+        "label": "Prompts completos dos mosaicos",
+        "file": "prompts-mosaicos.json",
+        "url": "https://raul138.github.io/clinica-deja-brand/prompts-mosaicos.json"
+      },
+      {
+        "label": "Índice de referências para IA",
+        "file": "llms.txt",
+        "url": "https://raul138.github.io/clinica-deja-brand/llms.txt"
+      },
+      {
+        "label": "Manifesto de arquivos e URLs",
+        "file": "assets.json",
+        "url": "https://raul138.github.io/clinica-deja-brand/assets.json"
+      },
+      {
+        "label": "Kit de arquivos",
+        "file": "kit-deja.zip",
+        "url": "https://raul138.github.io/clinica-deja-brand/kit-deja.zip"
+      }
+    ],
+    "fonts": [
+      {
+        "label": "Instrument Serif Regular — títulos",
+        "file": "InstrumentSerif-Regular.ttf",
+        "url": "https://raul138.github.io/clinica-deja-brand/InstrumentSerif-Regular.ttf"
+      },
+      {
+        "label": "Instrument Serif Italic — ênfase",
+        "file": "InstrumentSerif-Italic.ttf",
+        "url": "https://raul138.github.io/clinica-deja-brand/InstrumentSerif-Italic.ttf"
+      },
+      {
+        "label": "Figtree Light — corpo",
+        "file": "Figtree-Light.ttf",
+        "url": "https://raul138.github.io/clinica-deja-brand/Figtree-Light.ttf"
+      },
+      {
+        "label": "Figtree SemiBold — subtítulos e chamadas",
+        "file": "Figtree-SemiBold.ttf",
+        "url": "https://raul138.github.io/clinica-deja-brand/Figtree-SemiBold.ttf"
+      }
+    ],
+    "logos": [
+      {
+        "label": "Primário: com assinatura, preto",
+        "file": "LOGO_DEJA_TAG_PRETO_FINAL.png",
+        "url": "https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_TAG_PRETO_FINAL.png"
+      },
+      {
+        "label": "Primário: com assinatura, branco",
+        "file": "LOGO_DEJA_TAG_BRANCO_FINAL.png",
+        "url": "https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_TAG_BRANCO_FINAL.png"
+      },
+      {
+        "label": "Alternativo: sem assinatura, preto",
+        "file": "LOGO_DEJA_PRETO_FINAL.png",
+        "url": "https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_PRETO_FINAL.png"
+      },
+      {
+        "label": "Alternativo: sem assinatura, branco",
+        "file": "LOGO_DEJA_BRANCO_FINAL.png",
+        "url": "https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_BRANCO_FINAL.png"
+      }
+    ],
+    "photography": [
+      {
+        "label": "Atmosfera — mosaico de oito fotos",
+        "file": "mosaico-atmosfera.png",
+        "url": "https://raul138.github.io/clinica-deja-brand/mosaico-atmosfera.png"
+      },
+      {
+        "label": "Mulher — mosaico de oito fotos",
+        "file": "mosaico-mulher.png",
+        "url": "https://raul138.github.io/clinica-deja-brand/mosaico-mulher.png"
+      },
+      {
+        "label": "Sombras e silhuetas — mosaico de oito fotos",
+        "file": "mosaico-sombras-silhuetas.png",
+        "url": "https://raul138.github.io/clinica-deja-brand/mosaico-sombras-silhuetas.png"
+      },
+      {
+        "label": "Natureza — mosaico de oito fotos",
+        "file": "mosaico-natureza.png",
+        "url": "https://raul138.github.io/clinica-deja-brand/mosaico-natureza.png"
+      }
+    ],
+    "licenses": [
+      {
+        "label": "Licença Figtree",
+        "file": "OFL-figtree.txt",
+        "url": "https://raul138.github.io/clinica-deja-brand/OFL-figtree.txt"
+      },
+      {
+        "label": "Licença Instrument Serif",
+        "file": "OFL-instrumentserif.txt",
+        "url": "https://raul138.github.io/clinica-deja-brand/OFL-instrumentserif.txt"
+      }
+    ]
+  }
+}
