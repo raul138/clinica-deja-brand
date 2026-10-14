@@ -1,10 +1,6 @@
-# Clínica Déjà — Portal da Marca
+# Clínica Déjà — identidade + social media
 
-> Biblioteca pública da identidade visual da Clínica Déjà. Comece pelas instruções para IA e pelo guia completo.
-
-Portal: https://raul138.github.io/clinica-deja-brand/
-
-## Guias, dados e downloads
+Leia as instruções e o guia social antes de criar. Capas, encerramentos e miolos são sugestões flexíveis.
 
 - [Manual visual ilustrado](https://raul138.github.io/clinica-deja-brand/manual-visual-deja.pdf)
 - [Guia editável completo](https://raul138.github.io/clinica-deja-brand/guia-design-system.md)
@@ -15,25 +11,42 @@ Portal: https://raul138.github.io/clinica-deja-brand/
 - [Índice de referências para IA](https://raul138.github.io/clinica-deja-brand/llms.txt)
 - [Manifesto de arquivos e URLs](https://raul138.github.io/clinica-deja-brand/assets.json)
 - [Kit de arquivos](https://raul138.github.io/clinica-deja-brand/kit-deja.zip)
-## Fontes originais
-
 - [Instrument Serif Regular — títulos](https://raul138.github.io/clinica-deja-brand/InstrumentSerif-Regular.ttf)
 - [Instrument Serif Italic — ênfase](https://raul138.github.io/clinica-deja-brand/InstrumentSerif-Italic.ttf)
 - [Figtree Light — corpo](https://raul138.github.io/clinica-deja-brand/Figtree-Light.ttf)
 - [Figtree SemiBold — subtítulos e chamadas](https://raul138.github.io/clinica-deja-brand/Figtree-SemiBold.ttf)
-## Logos oficiais
-
 - [Primário: com assinatura, preto](https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_TAG_PRETO_FINAL.png)
 - [Primário: com assinatura, branco](https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_TAG_BRANCO_FINAL.png)
 - [Alternativo: sem assinatura, preto](https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_PRETO_FINAL.png)
 - [Alternativo: sem assinatura, branco](https://raul138.github.io/clinica-deja-brand/LOGO_DEJA_BRANCO_FINAL.png)
-## Imagens de referência
-
 - [Atmosfera — mosaico de oito fotos](https://raul138.github.io/clinica-deja-brand/mosaico-atmosfera.png)
 - [Mulher — mosaico de oito fotos](https://raul138.github.io/clinica-deja-brand/mosaico-mulher.png)
 - [Sombras e silhuetas — mosaico de oito fotos](https://raul138.github.io/clinica-deja-brand/mosaico-sombras-silhuetas.png)
 - [Natureza — mosaico de oito fotos](https://raul138.github.io/clinica-deja-brand/mosaico-natureza.png)
-## Licenças das fontes
-
 - [Licença Figtree](https://raul138.github.io/clinica-deja-brand/OFL-figtree.txt)
 - [Licença Instrument Serif](https://raul138.github.io/clinica-deja-brand/OFL-instrumentserif.txt)
+- [Guia social ilustrado (29 páginas)](https://raul138.github.io/clinica-deja-brand/guia-social-media.pdf)
+- [Guia social editável](https://raul138.github.io/clinica-deja-brand/guia-social-media.md)
+- [Catálogo de layouts](https://raul138.github.io/clinica-deja-brand/catalogo-layouts.json)
+- [Kit social para download](https://raul138.github.io/clinica-deja-brand/kit-social-deja.zip)
+- [C01 / capas / Fotografia + painel central](https://raul138.github.io/clinica-deja-brand/social-C01.jpg)
+- [C02 / capas / Capa editorial em duas vozes](https://raul138.github.io/clinica-deja-brand/social-C02.jpg)
+- [C03 / capas / Capa com palavra em faixa](https://raul138.github.io/clinica-deja-brand/social-C03.jpg)
+- [C04 / capas / Capa tipográfica + esquema](https://raul138.github.io/clinica-deja-brand/social-C04.jpg)
+- [E01 / encerramentos / Convite e contato](https://raul138.github.io/clinica-deja-brand/social-E01.jpg)
+- [E02 / encerramentos / Síntese e flor ampliada](https://raul138.github.io/clinica-deja-brand/social-E02.jpg)
+- [M01 / miolos / Tira vertical + explicação](https://raul138.github.io/clinica-deja-brand/social-M01.jpg)
+- [M02 / miolos / Círculo + pergunta lateral](https://raul138.github.io/clinica-deja-brand/social-M02.jpg)
+- [M03 / miolos / Foto no topo + leitura abaixo](https://raul138.github.io/clinica-deja-brand/social-M03.jpg)
+- [M04 / miolos / Painel flutuante sobre macro](https://raul138.github.io/clinica-deja-brand/social-M04.jpg)
+- [M05 / miolos / Faixa horizontal + dois blocos](https://raul138.github.io/clinica-deja-brand/social-M05.jpg)
+- [M06 / miolos / Texto + fotografia lateral](https://raul138.github.io/clinica-deja-brand/social-M06.jpg)
+- [M07 / miolos / Constelação de cápsulas](https://raul138.github.io/clinica-deja-brand/social-M07.jpg)
+- [M08 / miolos / Pergunta + cartão de resposta](https://raul138.github.io/clinica-deja-brand/social-M08.jpg)
+- [M09 / miolos / Foto documental + mensagem](https://raul138.github.io/clinica-deja-brand/social-M09.jpg)
+- [M10 / miolos / Mensagem sobre imagem](https://raul138.github.io/clinica-deja-brand/social-M10.jpg)
+- [M11 / miolos / Imagem + dois blocos curtos](https://raul138.github.io/clinica-deja-brand/social-M11.jpg)
+- [M12 / miolos / Pausa tipográfica + pergunta](https://raul138.github.io/clinica-deja-brand/social-M12.jpg)
+- [M13 / miolos / Imagem atmosférica + orientação](https://raul138.github.io/clinica-deja-brand/social-M13.jpg)
+- [Flor original preto (PNG enquadrado em SVG)](https://raul138.github.io/clinica-deja-brand/flor-deja-preto.svg)
+- [Flor original branco (PNG enquadrado em SVG)](https://raul138.github.io/clinica-deja-brand/flor-deja-branco.svg)

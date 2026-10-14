@@ -16,3 +16,9 @@ Manual PDF, guia editável, tokens de design, escalas HEX, logos PNG, fontes ori
 
 ## Direitos
 A identidade e os logos pertencem à Clínica Déjà; acesso público não transfere a marca. As fontes são distribuídas sob SIL Open Font License (ver OFL-*.txt).
+
+## Social media 1.0
+
+[Portal social](https://raul138.github.io/clinica-deja-brand/#social) · [Guia ilustrado](https://raul138.github.io/clinica-deja-brand/guia-social-media.pdf) · [Catálogo](https://raul138.github.io/clinica-deja-brand/catalogo-layouts.json)
+
+Manual integrado: 66 páginas. Módulo social: 29 páginas, 4 capas, 2 encerramentos e 13 miolos. Todos os arquivos têm URLs absolutas em assets.json e instrucoes-ia.md. As referências JPG são versões de consulta das imagens fornecidas; os originais foram preservados no projeto local.

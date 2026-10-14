@@ -12,7 +12,7 @@ Use estas regras para criar peças da Clínica Déjà, clínica de ginecologia r
 Priorize as opções 1 a 5. Off-white predomina; ameixa cria contraste. Consulte https://raul138.github.io/clinica-deja-brand/tokens.json para as oito combinações de aplicação, na ordem 1 2 3 4 / 5 6 7 8. Escalas derivadas claras e escuras possuem cinco níveis e não substituem as cores-base.
 
 ## Tipografia
-Instrument Serif Regular: títulos. Instrument Serif Italic: ênfases curtas nos títulos. Figtree Light: corpo. Figtree SemiBold: subtítulos, etiquetas e chamadas. Entrelinha: 1,04 nos títulos e 1,22 no corpo. Entreletras: -0,015 em nos títulos e -0,01 em no corpo e etiquetas.
+Instrument Serif Regular: títulos. Instrument Serif Italic: ênfases curtas nos títulos. Figtree Light: corpo. Figtree SemiBold: subtítulos, etiquetas e chamadas. Entrelinha social: começar em 0,94 nos títulos curtos, ajustando até 1,04 para impedir colisões; corpo 1,22, blocos curtos 1,12. Entreletras: -0,015 em nos títulos e -0,01 em no corpo e etiquetas.
 
 ## Logo
 Logo com assinatura “Clínica de Saúde Feminina” é primário. Sem assinatura é alternativo. Use os PNGs oficiais, preto em fundos claros e branco em fundos escuros. Não redesenhe o lettering, não recolora, não distorça nem altere o espaçamento interno. Reserve pelo menos 25% da altura do arquivo ao redor como recomendação de respiro. Avalie legibilidade da assinatura no tamanho final.
@@ -74,3 +74,41 @@ Todos os links abaixo apontam diretamente para arquivos públicos, sem exigir lo
 ### Uso em um site
 
 Carregue as fontes com @font-face usando as URLs TTF acima. Use os logos PNG nas respectivas URLs, mantendo a proporção e o respiro. Para imagens, consulte o mosaico da categoria correspondente antes de escolher ou gerar uma foto. As fotos dos mosaicos são referências geradas por IA.
+
+## Módulo social media 1.0 — referência vigente para artes
+
+Antes de criar posts, carrosséis, stories ou outras artes, leia [o guia social](https://raul138.github.io/clinica-deja-brand/guia-social-media.md) e consulte [o catálogo de layouts](https://raul138.github.io/clinica-deja-brand/catalogo-layouts.json). O [guia ilustrado](https://raul138.github.io/clinica-deja-brand/guia-social-media.pdf) classifica 19 referências em 4 capas, 2 encerramentos e 13 miolos. As 19 imagens estão disponíveis por URL absoluta no catálogo, classificadas em capas, encerramentos e miolos.
+
+C01 é a capa principal e E01 o encerramento principal; são direções flexíveis. Escolha e varie os miolos pela função do conteúdo. Use briefing de imagem por tela, mostre o mockup completo e cada tela separada. O logo com assinatura é primário; no carrossel, fica por padrão somente no encerramento. A flor original pode ser ícone, apoio ou fundo, sem deformação. Os SVGs da flor enquadram o PNG oficial, sem redesenho vetorial.
+
+Para social, a nova recomendação de título curto começa em 94% de entrelinha, com ajuste óptico até 104% para impedir colisões. Corpo: 122%; blocos curtos podem usar 112%. Isso substitui o ponto inicial de 104% das páginas históricas para este contexto. Datas, gratuidade, 40+, vagas e ofertas do briefing antigo são dados específicos de campanha, não regras permanentes.
+
+O manual integrado possui 66 páginas (base 3.3 + módulo social 1.0). Este módulo integra a edição pública do portal da marca.
+
+## Links absolutos do módulo social
+
+- [Guia social ilustrado (29 páginas)](https://raul138.github.io/clinica-deja-brand/guia-social-media.pdf)
+- [Guia social editável](https://raul138.github.io/clinica-deja-brand/guia-social-media.md)
+- [Catálogo de layouts](https://raul138.github.io/clinica-deja-brand/catalogo-layouts.json)
+- [Kit social para download](https://raul138.github.io/clinica-deja-brand/kit-social-deja.zip)
+- [C01 / capas / Fotografia + painel central](https://raul138.github.io/clinica-deja-brand/social-C01.jpg)
+- [C02 / capas / Capa editorial em duas vozes](https://raul138.github.io/clinica-deja-brand/social-C02.jpg)
+- [C03 / capas / Capa com palavra em faixa](https://raul138.github.io/clinica-deja-brand/social-C03.jpg)
+- [C04 / capas / Capa tipográfica + esquema](https://raul138.github.io/clinica-deja-brand/social-C04.jpg)
+- [E01 / encerramentos / Convite e contato](https://raul138.github.io/clinica-deja-brand/social-E01.jpg)
+- [E02 / encerramentos / Síntese e flor ampliada](https://raul138.github.io/clinica-deja-brand/social-E02.jpg)
+- [M01 / miolos / Tira vertical + explicação](https://raul138.github.io/clinica-deja-brand/social-M01.jpg)
+- [M02 / miolos / Círculo + pergunta lateral](https://raul138.github.io/clinica-deja-brand/social-M02.jpg)
+- [M03 / miolos / Foto no topo + leitura abaixo](https://raul138.github.io/clinica-deja-brand/social-M03.jpg)
+- [M04 / miolos / Painel flutuante sobre macro](https://raul138.github.io/clinica-deja-brand/social-M04.jpg)
+- [M05 / miolos / Faixa horizontal + dois blocos](https://raul138.github.io/clinica-deja-brand/social-M05.jpg)
+- [M06 / miolos / Texto + fotografia lateral](https://raul138.github.io/clinica-deja-brand/social-M06.jpg)
+- [M07 / miolos / Constelação de cápsulas](https://raul138.github.io/clinica-deja-brand/social-M07.jpg)
+- [M08 / miolos / Pergunta + cartão de resposta](https://raul138.github.io/clinica-deja-brand/social-M08.jpg)
+- [M09 / miolos / Foto documental + mensagem](https://raul138.github.io/clinica-deja-brand/social-M09.jpg)
+- [M10 / miolos / Mensagem sobre imagem](https://raul138.github.io/clinica-deja-brand/social-M10.jpg)
+- [M11 / miolos / Imagem + dois blocos curtos](https://raul138.github.io/clinica-deja-brand/social-M11.jpg)
+- [M12 / miolos / Pausa tipográfica + pergunta](https://raul138.github.io/clinica-deja-brand/social-M12.jpg)
+- [M13 / miolos / Imagem atmosférica + orientação](https://raul138.github.io/clinica-deja-brand/social-M13.jpg)
+- [Flor original preto (PNG enquadrado em SVG)](https://raul138.github.io/clinica-deja-brand/flor-deja-preto.svg)
+- [Flor original branco (PNG enquadrado em SVG)](https://raul138.github.io/clinica-deja-brand/flor-deja-branco.svg)

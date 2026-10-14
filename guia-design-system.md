@@ -394,3 +394,13 @@ A área de respiro sugerida de 25% da altura do arquivo é uma recomendação op
 ## Revisão v3.3
 
 Tema Ambiente retirado. Os mosaicos atuais são Fotografia e atmosfera, Mulher, Sombras e silhuetas e Natureza. Imagens e prompts de Ambiente excluídos do pacote atual. Os demais padrões de cor, logo e espaçamento continuam válidos.
+
+## Módulo social media 1.0 — referência vigente para artes
+
+Antes de criar posts, carrosséis, stories ou outras artes, leia [o guia social](https://raul138.github.io/clinica-deja-brand/guia-social-media.md) e consulte [o catálogo de layouts](https://raul138.github.io/clinica-deja-brand/catalogo-layouts.json). O [guia ilustrado](https://raul138.github.io/clinica-deja-brand/guia-social-media.pdf) classifica 19 referências em 4 capas, 2 encerramentos e 13 miolos. As 19 imagens estão disponíveis por URL absoluta no catálogo, classificadas em capas, encerramentos e miolos.
+
+C01 é a capa principal e E01 o encerramento principal; são direções flexíveis. Escolha e varie os miolos pela função do conteúdo. Use briefing de imagem por tela, mostre o mockup completo e cada tela separada. O logo com assinatura é primário; no carrossel, fica por padrão somente no encerramento. A flor original pode ser ícone, apoio ou fundo, sem deformação. Os SVGs da flor enquadram o PNG oficial, sem redesenho vetorial.
+
+Para social, a nova recomendação de título curto começa em 94% de entrelinha, com ajuste óptico até 104% para impedir colisões. Corpo: 122%; blocos curtos podem usar 112%. Isso substitui o ponto inicial de 104% das páginas históricas para este contexto. Datas, gratuidade, 40+, vagas e ofertas do briefing antigo são dados específicos de campanha, não regras permanentes.
+
+O manual integrado possui 66 páginas (base 3.3 + módulo social 1.0). Este módulo integra a edição pública do portal da marca.

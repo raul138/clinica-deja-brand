@@ -129,6 +129,134 @@
         "file": "OFL-instrumentserif.txt",
         "url": "https://raul138.github.io/clinica-deja-brand/OFL-instrumentserif.txt"
       }
+    ],
+    "social_media": [
+      {
+        "label": "Guia social ilustrado (29 páginas)",
+        "file": "guia-social-media.pdf",
+        "url": "https://raul138.github.io/clinica-deja-brand/guia-social-media.pdf"
+      },
+      {
+        "label": "Guia social editável",
+        "file": "guia-social-media.md",
+        "url": "https://raul138.github.io/clinica-deja-brand/guia-social-media.md"
+      },
+      {
+        "label": "Catálogo de layouts",
+        "file": "catalogo-layouts.json",
+        "url": "https://raul138.github.io/clinica-deja-brand/catalogo-layouts.json"
+      },
+      {
+        "label": "Kit social para download",
+        "file": "kit-social-deja.zip",
+        "url": "https://raul138.github.io/clinica-deja-brand/kit-social-deja.zip"
+      },
+      {
+        "label": "C01 / capas / Fotografia + painel central",
+        "file": "social-C01.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-C01.jpg"
+      },
+      {
+        "label": "C02 / capas / Capa editorial em duas vozes",
+        "file": "social-C02.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-C02.jpg"
+      },
+      {
+        "label": "C03 / capas / Capa com palavra em faixa",
+        "file": "social-C03.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-C03.jpg"
+      },
+      {
+        "label": "C04 / capas / Capa tipográfica + esquema",
+        "file": "social-C04.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-C04.jpg"
+      },
+      {
+        "label": "E01 / encerramentos / Convite e contato",
+        "file": "social-E01.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-E01.jpg"
+      },
+      {
+        "label": "E02 / encerramentos / Síntese e flor ampliada",
+        "file": "social-E02.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-E02.jpg"
+      },
+      {
+        "label": "M01 / miolos / Tira vertical + explicação",
+        "file": "social-M01.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M01.jpg"
+      },
+      {
+        "label": "M02 / miolos / Círculo + pergunta lateral",
+        "file": "social-M02.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M02.jpg"
+      },
+      {
+        "label": "M03 / miolos / Foto no topo + leitura abaixo",
+        "file": "social-M03.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M03.jpg"
+      },
+      {
+        "label": "M04 / miolos / Painel flutuante sobre macro",
+        "file": "social-M04.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M04.jpg"
+      },
+      {
+        "label": "M05 / miolos / Faixa horizontal + dois blocos",
+        "file": "social-M05.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M05.jpg"
+      },
+      {
+        "label": "M06 / miolos / Texto + fotografia lateral",
+        "file": "social-M06.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M06.jpg"
+      },
+      {
+        "label": "M07 / miolos / Constelação de cápsulas",
+        "file": "social-M07.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M07.jpg"
+      },
+      {
+        "label": "M08 / miolos / Pergunta + cartão de resposta",
+        "file": "social-M08.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M08.jpg"
+      },
+      {
+        "label": "M09 / miolos / Foto documental + mensagem",
+        "file": "social-M09.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M09.jpg"
+      },
+      {
+        "label": "M10 / miolos / Mensagem sobre imagem",
+        "file": "social-M10.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M10.jpg"
+      },
+      {
+        "label": "M11 / miolos / Imagem + dois blocos curtos",
+        "file": "social-M11.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M11.jpg"
+      },
+      {
+        "label": "M12 / miolos / Pausa tipográfica + pergunta",
+        "file": "social-M12.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M12.jpg"
+      },
+      {
+        "label": "M13 / miolos / Imagem atmosférica + orientação",
+        "file": "social-M13.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M13.jpg"
+      },
+      {
+        "label": "Flor original preto (PNG enquadrado em SVG)",
+        "file": "flor-deja-preto.svg",
+        "url": "https://raul138.github.io/clinica-deja-brand/flor-deja-preto.svg"
+      },
+      {
+        "label": "Flor original branco (PNG enquadrado em SVG)",
+        "file": "flor-deja-branco.svg",
+        "url": "https://raul138.github.io/clinica-deja-brand/flor-deja-branco.svg"
+      }
     ]
-  }
+  },
+  "version": "3.3+social-1.0"
 }
