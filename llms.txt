@@ -1,6 +1,6 @@
 # Clínica Déjà — identidade + social media
 
-Leia as instruções e o guia social antes de criar. Capas, encerramentos e miolos são sugestões flexíveis.
+Leia as instruções e o guia social antes de criar. Capas, encerramentos e miolos são sugestões flexíveis. Guia social 1.1 (27/10/2026): título expressivo em três vozes, novos componentes e famílias C05–C09, M14.
 
 - [Manual visual ilustrado](https://raul138.github.io/clinica-deja-brand/manual-visual-deja.pdf)
 - [Guia editável completo](https://raul138.github.io/clinica-deja-brand/guia-design-system.md)
@@ -50,3 +50,12 @@ Leia as instruções e o guia social antes de criar. Capas, encerramentos e miol
 - [M13 / miolos / Imagem atmosférica + orientação](https://raul138.github.io/clinica-deja-brand/social-M13.jpg)
 - [Flor original preto (PNG enquadrado em SVG)](https://raul138.github.io/clinica-deja-brand/flor-deja-preto.svg)
 - [Flor original branco (PNG enquadrado em SVG)](https://raul138.github.io/clinica-deja-brand/flor-deja-branco.svg)
+- [C05 / capas / Título + fecho em faixa](https://raul138.github.io/clinica-deja-brand/social-C05.jpg)
+- [C06 / capas / Cartão com alfinete](https://raul138.github.io/clinica-deja-brand/social-C06.jpg)
+- [C07 / capas / Capa tipográfica centralizada](https://raul138.github.io/clinica-deja-brand/social-C07.jpg)
+- [C08 / capas / Título expressivo sobre foto](https://raul138.github.io/clinica-deja-brand/social-C08.jpg)
+- [C09 / capas / Título expressivo + recorte com conector](https://raul138.github.io/clinica-deja-brand/social-C09.jpg)
+- [M14 / miolos / Estático tipográfico em três pesos + faixa lateral](https://raul138.github.io/clinica-deja-brand/social-M14.jpg)
+- [Componentes social B](https://raul138.github.io/clinica-deja-brand/social-componentes-b.jpg)
+- [Vibrante — mosaico de oito fotos (direção v1.1)](https://raul138.github.io/clinica-deja-brand/mosaico-vibrante.png)
+- [Fotos geradas na programação de outubro (lista em assets.json)](https://raul138.github.io/clinica-deja-brand/assets.json)

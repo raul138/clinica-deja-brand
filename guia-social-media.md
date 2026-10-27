@@ -1,6 +1,8 @@
-# Clínica Déjà | Guia de social media 1.0
+# Clínica Déjà | Guia de social media 1.1
 
 Complemento do design system v3.3, criado em 13/10/2026 a partir de 19 artes fornecidas e do briefing consolidado. A identidade oficial permanece a base; este módulo define aplicações para social. As medidas são pontos de partida e as famílias são sugestões, não templates obrigatórios.
+
+**Versão 1.1 (27/10/2026).** Incorpora as decisões aprovadas na programação de outubro de 2026 (Versão B): título expressivo em três vozes, entrelinha e entreletras mais fechados nos títulos, faixa de destaque, tags contornadas, etiqueta e linha espaçadas, conector em L, seis novas famílias (C05–C09, M14), direção de foto vibrante e regras de entrega no Figma. Quando a 1.1 diverge da 1.0, vale a 1.1.
 
 ## 1. O que permanece e o que varia
 
@@ -20,6 +22,22 @@ Para largura 1080: título 80–112 px; subtítulo 48–60; corpo 36–44; etiqu
 Neste módulo social, partir de entrelinha **0,94 em nos títulos curtos**, ajustando opticamente até 1,04 quando necessário para evitar colisões. Corpo parte de 1,22; blocos muito curtos podem usar 1,12. O valor 1,06 do briefing foi uma exceção de campanha, não padrão para parágrafos. Entreletras: título −0,015 em; corpo/etiqueta −0,01 em. Nunca apertar até encostar acentos ou descendentes.
 Evitar justificar, distribuir letras artificialmente ou quebrar uma palavra para caber. Antes de reduzir fonte, resumir ou dividir em telas. Figtree SemiBold não deve dominar todos os parágrafos.
 
+### 3.1 Título expressivo em três vozes (v1.1, padrão para capas)
+
+Nas capas de vídeo, capas de carrossel e estáticos de impacto, o título combina três vozes e brinca com tamanho e peso:
+- **Figtree SemiBold grande**: a palavra forte (ex.: "Pós", "Meno-", "laser", "muda"). Entrelinha **84%**, entreletras **−5,5%**.
+- **Instrument Serif Italic**: a ênfase emocional, em rosa ou ameixa (ex.: *de cirurgia*, *me arrepender*, *tradicional*). Entrelinha **88%**, entreletras **−2,5%**.
+- **Figtree Light**: a frase de apoio ou pergunta (ex.: "Qual corte escolher?", "Sua região íntima"). Entreletras **−3%** quando acima de 90 px; −1% em tamanho de corpo.
+- Instrument Serif Regular em título grande: entreletras **−3%**.
+
+Escala de partida em 1080 px: palavra forte 220–340 px; itálico 130–250 px; apoio Light 60–100 px. O título pode ocupar até ~45% da altura da capa. As linhas podem encostar opticamente, sem acentos ou descendentes colidindo com a linha de baixo.
+
+**Quebra com hífen como recurso** ("Meno-pausa", "arre-pender", "procedi-mento"): permitida em títulos expressivos de capa para criar ritmo e escala. Continua proibida em corpo de texto e como forma de "caber" texto.
+
+**Pesos:** SemiBold continua sendo o peso máximo da marca. Bold e ExtraBold só com aprovação explícita.
+
+Para alternar as vozes, a combinação mais usada é: Light (pergunta) → SemiBold (palavra-chave) → Italic (complemento). Também funciona: SemiBold → Italic → SemiBold (ex.: "Diário / *de cirurgia* / íntima").
+
 ## 4. Paleta e contraste
 
 Off-white #F9F6F4; rosa #AA6F7D; ameixa #301F25; areia #DDCFC3; oliva #939266; oliva escuro #59583E. Priorizar as combinações 1–5 do design system, na ordem 1 2 3 4 / 5 6 7 8. Não amostrar cores alteradas pela textura das referências.
@@ -32,6 +50,17 @@ Margem de partida: 80 px. Etiquetas no eixo superior Y=80. No carrossel 1080×13
 Painéis e shapes retangulares destacados: cantos arredondados, cerca de 36–40 px em largura 1080. Caixa flutuante: margem lateral de referência 100 px e respiro interno cerca de 80 px; altura acompanha o texto. Foto em faixa de fora a fora preenche a largura sem frestas; círculo e arco são alternativas intencionais.
 Seta fina em cápsula de aproximadamente 138×48 px; margem direita 80. Na capa, cápsula ameixa preenchida com seta clara. Nas internas, contorno fino com contraste. Sem seta no encerramento.
 Para N telas, usar N indicadores nas internas (2 a N−1), com apenas o índice absoluto ativo. Capa e fechamento sem indicadores. Ponto de partida: 12 px, passo 27 px, X=80. Pode-se usar ponto ou pequeno losango consistente. Sem navegação de carrossel em peça avulsa.
+
+### 5.1 Elementos gráficos (v1.1)
+
+Referência visual: [social-componentes-b.jpg](https://raul138.github.io/clinica-deja-brand/social-componentes-b.jpg).
+
+- **Faixa de destaque**: retângulo rosa #AA6F7D justo ao texto, cantos ~6 px (quase retos), texto em off-white. Respiro de ~18 px nas laterais, 4 px acima e 8 px abaixo. Serve para Figtree SemiBold (fecho curto, ex.: "da ninfoplastia”", "menopausa") ou para uma palavra em itálico dentro do título (ex.: *de cirurgia*). Uma faixa por tela. Pode encostar levemente nas linhas vizinhas. É diferente da faixa arredondada da C03.
+- **Tags contornadas**: pílulas com fio de 1,5 px, Figtree SemiBold 27–34 px, entreletras −1%, padding 22–30 px na horizontal e 9–14 px na vertical, espaço de 10–14 px entre elas. Duas a quatro tags com palavras-chave do conteúdo. Cor do fio e do texto = cor de maior contraste com o fundo (ameixa no claro, rosa dentro de painel claro, off-white sobre foto). Sobre foto, preencher com véu ameixa a 18% de opacidade. Dentro de painel, nunca encostar nas bordas: deixar no mínimo ~80 px de folga de cada lado (reduzir tamanho ou quantidade).
+- **Etiqueta espaçada**: pílula rosa com palavras em caixa alta distribuídas na largura (ex.: "LASER · ÍNTIMO · PÓS", "18 · DE · OUTUBRO"). Figtree SemiBold 26 px, entreletras +4%.
+- **Linha espaçada sublinhada**: palavras em caixa alta distribuídas na largura, com fio rosa de 2 px a 6 px abaixo. Uso típico dentro do cartão da C07.
+- **Conector em L**: fio de 2,5 px com ponto de 16 px na ponta, ligando o fim de uma linha do título a um detalhe da foto (a ponteira de um equipamento, uma bandeja, a mão). Um conector por tela, só quando aponta para algo real.
+- **Cartão com alfinete**: cartão off-white, cantos ~10 px, sombra suave (y 18, blur 48, ameixa 18%), alfinete circular rosa de 72 px centrado na borda superior.
 
 ## 6. Flor da marca como recurso
 
@@ -51,6 +80,18 @@ Sombras: “Sombra de mão sobre superfície quente texturizada, composição la
 Atmosfera: “Detalhe de linho e luz suave, textura tátil, sombras orgânicas, desfoque delicado, paleta off-white e areia, sem cenário arquitetônico.”
 Gerar a foto sem texto e aplicar fontes e logo oficiais na composição. Não apresentar imagens geradas como pacientes ou profissionais reais. Para equipe, usar material real fornecido. Em diagramas clínicos, priorizar precisão e revisão; nenhuma imagem substitui validação do conteúdo.
 
+### 7.1 Direção vibrante (v1.1)
+
+Referência: [mosaico-vibrante.png](https://raul138.github.io/clinica-deja-brand/mosaico-vibrante.png). Fotos completas: pasta [fotos/](https://raul138.github.io/clinica-deja-brand/fotos/) (lista em `assets.json`).
+
+- **Estética preferida para capas**: moderna e vibrante, com cara de campanha de beleza. Cor mais saturada (rosa antigo, pêssego, coral suave, ameixa), luz de dia clara, fundo limpo off-white ou desfocado. O tom terroso e sombrio dos mosaicos originais continua válido para miolos e pausas.
+- **Foto literal ao tema** quando o post pede: se o texto fala de nervosismo, mostrar a boca mordendo a cutícula; se fala de corpo e menopausa, mostrar o corpo em movimento (academia, cintura). Metáfora (flor, tecido) fica para quando o tema não tem imagem direta ou é delicado demais.
+- **Idade coerente com o público**: pessoas e corpos com aparência 40+ ou 50+ quando o tema é menopausa, ninfoplastia 40+ ou envelhecimento. Evitar físico jovem demais ou abdômen de atleta.
+- **Área de texto**: reservar o topo (40–45%) limpo ou desfocado para o título; a foto entra embaixo com película degradê da cor do fundo.
+- **Foto da Dra. Débora**: em posts sobre ela ou da conta @dradeborajannuzzi que pedem presença dela, usar foto real. Pedir o arquivo original em alta; o retrato do site tem texto aplicado e só serve recortado.
+
+Prompt-base vibrante: “Modern vibrant editorial photograph for a women's health clinic, [sujeito/ação literal], [enquadramento close], bright warm daylight, real skin texture, saturated dusty rose, peach and plum tones, contemporary beauty campaign look, [pessoa com idade do público], the upper 40 percent of the frame is a clean soft off-white background for text, vertical 9:16, no text, no logo.”
+
 ## 8. Processo para transformar briefing em arte
 
 1. Identificar objetivo, público, formato, mensagem principal, ação esperada, conteúdo disponível e restrições. Perguntar só o essencial que estiver faltando; explicitar hipóteses reversíveis.
@@ -59,6 +100,15 @@ Gerar a foto sem texto e aplicar fontes e logo oficiais na composição. Não ap
 4. Apresentar mockup da sequência completa e cada tela separada. Uma sequência possível: capa → contexto → explicação → pausa → orientação → síntese → encerramento. Não preencher dez telas por obrigação.
 5. Alternar proporção de foto e texto, uma tela tipográfica e recortes distintos. Em geral, evitar mais de duas composições iguais seguidas; repetir quando melhorar comparação ou entendimento. Manter topo e rodapé coerentes.
 6. Revisar texto, contraste, recortes, eixos, fontes, logo e leitura reduzida. Exportar PNGs separados, visão geral, ZIP e fontes de composição quando disponíveis. Em revisões, preservar a versão anterior e listar telas alteradas.
+
+### 8.1 Entrega no Figma (v1.1)
+
+- **Programação mensal**: um arquivo no Figma com todas as peças **numa única linha horizontal, em ordem de publicação**, da esquerda para a direita. Acima de cada peça, um cabeçalho com data (Instrument Serif), título (itálico rosa), formato · número de telas · conta (Figtree SemiBold em caixa alta) e observações (Figtree Light).
+- **Revisões**: cada rodada de ajustes vira uma **nova página** (Versão B, Versão C…), duplicando a anterior; a versão aprovada antes fica intacta.
+- **Fotos e assets**: numa página separada, para reaproveitar.
+- **Capas de vídeo/Reels**: 1080×1920, com todo o texto dentro do recorte 3:4 do feed (faixa central de 1080×1440, ou seja, entre Y≈240 e Y≈1680).
+- **Briefing já com texto definido** (programação mensal aprovada pela clínica): pode-se ir direto ao mockup, sem etapa de roteiro. Briefing aberto ou sem texto: manter roteiro antes.
+- **Escrita**: "Déjà" sempre em caixa baixa com acentos, nunca DÉJÀ, mesmo em textos em caixa alta. Não usar travessão nas peças; preferir ponto, vírgula ou dois-pontos.
 
 ## 9. Adaptação a outras peças
 
@@ -81,10 +131,14 @@ As imagens anexadas são referências de composição, não autorização para c
 - Flor com função e geometria preservada; fundo não concorre com texto.
 - Capa reconhecível; encerramento coerente; navegação correta para N telas.
 - Conferência da sequência inteira e de cada tela reduzida; arquivos e versões organizados.
+- (v1.1) Título de capa em três vozes, com entrelinha 84–88% e entreletras −5,5% / −2,5%, sem colisão de acentos.
+- (v1.1) Tags com folga dentro de painéis; faixa de destaque no máximo uma por tela.
+- (v1.1) Foto com idade coerente ao público; foto real da Dra. quando o post é sobre ela.
+- (v1.1) Sem travessão; "Déjà" em caixa baixa.
 
 ## 12. Como pedir a próxima peça
 
-“Crie [formato] para a Clínica Déjà sobre [tema], com objetivo [objetivo], para [público]. Conteúdo: [texto]. CTA: [ação]. Use o módulo social-media do design system, proponha roteiro e mockup, priorize C01 e E01 quando fizer sentido e varie os miolos pela função. Defina o briefing de imagem de cada tela. Preserve fontes, cores, logo e espaçamento compacto. Entregue visão geral e telas separadas.”
+“Crie [formato] para a Clínica Déjà sobre [tema], com objetivo [objetivo], para [público]. Conteúdo: [texto]. CTA: [ação]. Use o módulo social-media do design system, proponha roteiro e mockup, priorize C01 e E01 quando fizer sentido e varie os miolos pela função. Para capas de impacto, use o título expressivo em três vozes (C05–C09). Defina o briefing de imagem de cada tela. Preserve fontes, cores, logo e espaçamento compacto. Entregue visão geral e telas separadas.”
 
 ## 13. Catálogo de referências
 
@@ -317,6 +371,81 @@ Referência: [08.09 - 03png.png](https://raul138.github.io/clinica-deja-brand/so
 **Adaptar:** A referência tem texto denso: sintetizar. Orientações de pós-procedimento dependem do conteúdo fornecido e revisado pela clínica.
 
 
+### Novas famílias da versão 1.1
+
+### C05 | Título + fecho em faixa (capas)
+
+Referência: [social-C05.jpg](https://raul138.github.io/clinica-deja-brand/social-C05.jpg) · origem: Programação outubro 2026 · 30/10 · Versão B.
+
+**Quando usar:** Capa de vídeo ou estático com uma afirmação ou pergunta curta que termina numa palavra-chave.
+
+**Manter:** Título centralizado no topo: linha em Figtree SemiBold + linha em Instrument Serif Italic; fecho à direita com linha simples em SemiBold e faixa de destaque rosa com texto off-white; foto vibrante embaixo com película degradê da cor do fundo.
+
+**Variar:** Trocar a foto (literal ao tema), a cor da faixa (rosa ou ameixa) e o número de linhas do fecho; tags contornadas acima do título quando houver palavras-chave.
+
+**Adaptar:** Uma faixa por tela. Manter o topo (40–45%) limpo para o título. Entreletras −5,5% no SemiBold e −2,5% no itálico.
+
+### C06 | Cartão com alfinete (capas)
+
+Referência: [social-C06.jpg](https://raul138.github.io/clinica-deja-brand/social-C06.jpg) · origem: Programação outubro 2026 · 28/10 · Versão B.
+
+**Quando usar:** Frase em primeira pessoa, dúvida de paciente ou pergunta que pede tom de conversa, sobre uma foto expressiva em close.
+
+**Manter:** Foto sangrada levemente desfocada com véu rosa sutil; cartão off-white com sombra e alfinete rosa no topo; título em caixa alta SemiBold + itálico grande rosa + caixa alta; linha espaçada sublinhada dentro do cartão; tags contornadas off-white acima do alfinete; logo branco abaixo do cartão.
+
+**Variar:** Trocar a frase, a foto e o texto da linha espaçada; o cartão pode subir ou descer para não cobrir o ponto expressivo da foto.
+
+**Adaptar:** Tags acima do cartão com véu ameixa 18% para leitura sobre pele. Confirmar se o logo da clínica cabe em post da conta da Dra.
+
+### C07 | Capa tipográfica centralizada (capas)
+
+Referência: [social-C07.jpg](https://raul138.github.io/clinica-deja-brand/social-C07.jpg) · origem: Programação outubro 2026 · 29/10 · Versão B.
+
+**Quando usar:** Comparações e escolhas (A × B) ou um tema que cabe em duas ou três palavras fortes.
+
+**Manter:** Texto no meio da tela, centralizado, alternando Figtree Light (pergunta), Figtree SemiBold gigante (palavra A), × em itálico rosa e Instrument Serif Italic (palavra B); pílula ameixa com a pergunta de apoio; tags contornadas no topo; película radial clara sobre a foto.
+
+**Variar:** Trocar a foto de fundo e as palavras; a palavra em itálico deve ter largura próxima à da palavra em SemiBold.
+
+**Adaptar:** Não deixar a palavra em itálico mais larga que a principal. Película radial forte o bastante para ler sobre a foto.
+
+### C08 | Título expressivo sobre foto (capas)
+
+Referência: [social-C08.jpg](https://raul138.github.io/clinica-deja-brand/social-C08.jpg) · origem: Programação outubro 2026 · 18/10 · Versão B.
+
+**Quando usar:** Capa de Reels com tema forte de uma ou duas palavras (data comemorativa, procedimento, sintoma).
+
+**Manter:** Foto vibrante ocupando a tela; película ameixa na metade inferior; etiqueta espaçada rosa; itálico de apoio + palavra em Figtree SemiBold gigante off-white, com quebra por hífen quando cria ritmo; flor da marca como pontuação.
+
+**Variar:** Inverter para película clara e texto ameixa no topo (ex.: 20/10, 21/10); trocar a etiqueta e a ordem das vozes.
+
+**Adaptar:** Todo texto dentro do recorte 3:4 do feed. Hífen só em título de capa, nunca em corpo.
+
+### C09 | Título expressivo + recorte com conector (capas)
+
+Referência: [social-C09.jpg](https://raul138.github.io/clinica-deja-brand/social-C09.jpg) · origem: Programação outubro 2026 · 14/10 · Versão B.
+
+**Quando usar:** Apresentar um equipamento, objeto ou detalhe que o vídeo explica.
+
+**Manter:** Fundo off-white; título em três vozes no topo; foto em recorte arredondado embaixo; conector em L saindo do título até o detalhe, com marcação circular e cápsula ameixa com o nome.
+
+**Variar:** Trocar objeto, posição do recorte e do conector; fundo areia como alternativa.
+
+**Adaptar:** O conector precisa apontar para algo real e identificável na foto. Um conector por tela.
+
+### M14 | Estático tipográfico em três pesos + faixa lateral (miolos)
+
+Referência: [social-M14.jpg](https://raul138.github.io/clinica-deja-brand/social-M14.jpg) · origem: Programação outubro 2026 · 22/10 · Versão B.
+
+**Quando usar:** Frase de posicionamento ou citação da Dra. em post avulso.
+
+**Manter:** Fundo off-white; frase de apoio em Figtree Light; palavra-chave em itálico rosa, palavra forte em SemiBold e fecho em itálico; faixa vertical de foto à direita (~30% da largura); conector curto até a foto; assinatura com nome e CRM.
+
+**Variar:** Trocar lado e conteúdo da faixa (sombra, textura, retrato); usar areia como fundo.
+
+**Adaptar:** Usar CRM real informado pela clínica. Não inventar assinatura ou cargo.
+
+
 ## Links absolutos do módulo social
 
 - [Guia social ilustrado (29 páginas)](https://raul138.github.io/clinica-deja-brand/guia-social-media.pdf)
@@ -344,3 +473,11 @@ Referência: [08.09 - 03png.png](https://raul138.github.io/clinica-deja-brand/so
 - [M13 / miolos / Imagem atmosférica + orientação](https://raul138.github.io/clinica-deja-brand/social-M13.jpg)
 - [Flor original preto (PNG enquadrado em SVG)](https://raul138.github.io/clinica-deja-brand/flor-deja-preto.svg)
 - [Flor original branco (PNG enquadrado em SVG)](https://raul138.github.io/clinica-deja-brand/flor-deja-branco.svg)
+- [C05 / capas / Título + fecho em faixa](https://raul138.github.io/clinica-deja-brand/social-C05.jpg)
+- [C06 / capas / Cartão com alfinete](https://raul138.github.io/clinica-deja-brand/social-C06.jpg)
+- [C07 / capas / Capa tipográfica centralizada](https://raul138.github.io/clinica-deja-brand/social-C07.jpg)
+- [C08 / capas / Título expressivo sobre foto](https://raul138.github.io/clinica-deja-brand/social-C08.jpg)
+- [C09 / capas / Título expressivo + recorte com conector](https://raul138.github.io/clinica-deja-brand/social-C09.jpg)
+- [M14 / miolos / Estático tipográfico em três pesos + faixa lateral](https://raul138.github.io/clinica-deja-brand/social-M14.jpg)
+- [Componentes social B (faixa, tags, etiquetas, conector, alfinete)](https://raul138.github.io/clinica-deja-brand/social-componentes-b.jpg)
+- [Mosaico vibrante (direção de foto v1.1)](https://raul138.github.io/clinica-deja-brand/mosaico-vibrante.png)

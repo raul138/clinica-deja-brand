@@ -85,6 +85,45 @@ Para social, a nova recomendação de título curto começa em 94% de entrelinha
 
 O manual integrado possui 66 páginas (base 3.3 + módulo social 1.0). Este módulo integra a edição pública do portal da marca.
 
+## Módulo social media 1.1: atualização de 27/10/2026 (prevalece sobre a 1.0)
+
+Decisões aprovadas na programação de outubro de 2026. Guia completo: https://raul138.github.io/clinica-deja-brand/guia-social-media.md (seções 3.1, 5.1, 7.1 e 8.1).
+
+### Título expressivo em três vozes (capas de vídeo, capas de carrossel, estáticos de impacto)
+- Figtree SemiBold grande na palavra forte: entrelinha 84%, entreletras −5,5%, 220–340 px em 1080.
+- Instrument Serif Italic na ênfase (rosa ou ameixa): entrelinha 88%, entreletras −2,5%, 130–250 px.
+- Figtree Light na frase de apoio ou pergunta: entreletras −3% acima de 90 px.
+- Instrument Serif Regular grande: entreletras −3%.
+- Quebra com hífen ("Meno-pausa", "arre-pender") é permitida só em título de capa.
+- SemiBold é o peso máximo; Bold/ExtraBold só com aprovação.
+
+### Componentes
+- Faixa de destaque: retângulo rosa justo ao texto, cantos ~6 px, texto off-white; uma por tela.
+- Tags contornadas: pílula com fio 1,5 px, Figtree SemiBold 27–34 px, 2 a 4 palavras-chave; cor de maior contraste com o fundo; sobre foto, véu ameixa 18%; dentro de painel, ~80 px de folga de cada lado.
+- Etiqueta espaçada (pílula rosa, palavras distribuídas) e linha espaçada sublinhada (fio rosa 2 px).
+- Conector em L com ponto na ponta, ligando o título a um detalhe real da foto; um por tela.
+- Cartão com alfinete: cartão off-white com sombra suave e alfinete rosa no topo.
+- Referência: https://raul138.github.io/clinica-deja-brand/social-componentes-b.jpg
+
+### Novas famílias
+C05 Título + fecho em faixa · C06 Cartão com alfinete · C07 Capa tipográfica centralizada · C08 Título expressivo sobre foto · C09 Título expressivo + recorte com conector · M14 Estático tipográfico em três pesos. Imagens em https://raul138.github.io/clinica-deja-brand/social-C05.jpg … social-C09.jpg e social-M14.jpg; descrições em catalogo-layouts.json.
+
+### Fotografia
+- Capas preferem foto moderna e vibrante (campanha de beleza, cor saturada, fundo limpo), com o topo 40–45% livre para o título. Referência: https://raul138.github.io/clinica-deja-brand/mosaico-vibrante.png
+- Foto literal ao tema quando o post pede (boca mordendo a cutícula para nervosismo, corpo na academia para menopausa); metáfora só quando não houver imagem direta.
+- Pessoas e corpos com idade coerente ao público (40+/50+); evitar físico jovem demais.
+- Posts sobre a Dra. Débora ou que pedem a presença dela: usar foto real, pedindo o original em alta.
+
+### Entrega e processo
+- Entregar no Figma, com todas as peças numa única linha horizontal em ordem de publicação e um cabeçalho por peça (data, título, formato · telas · conta, observações).
+- Cada rodada de revisão vira nova página (Versão B, C…), preservando a anterior.
+- Capas de vídeo em 1080×1920 com todo o texto dentro do recorte 3:4 do feed.
+- Programação mensal com textos já aprovados pela clínica pode ir direto ao mockup; briefing aberto mantém o roteiro antes.
+
+### Escrita
+- "Déjà" sempre em caixa baixa com acentos, nunca DÉJÀ.
+- Não usar travessão nas peças.
+
 ## Links absolutos do módulo social
 
 - [Guia social ilustrado (29 páginas)](https://raul138.github.io/clinica-deja-brand/guia-social-media.pdf)

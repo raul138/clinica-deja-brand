@@ -116,6 +116,11 @@
         "label": "Natureza — mosaico de oito fotos",
         "file": "mosaico-natureza.png",
         "url": "https://raul138.github.io/clinica-deja-brand/mosaico-natureza.png"
+      },
+      {
+        "label": "Vibrante — mosaico de oito fotos (direção v1.1)",
+        "file": "mosaico-vibrante.png",
+        "url": "https://raul138.github.io/clinica-deja-brand/mosaico-vibrante.png"
       }
     ],
     "licenses": [
@@ -255,8 +260,171 @@
         "label": "Flor original branco (PNG enquadrado em SVG)",
         "file": "flor-deja-branco.svg",
         "url": "https://raul138.github.io/clinica-deja-brand/flor-deja-branco.svg"
+      },
+      {
+        "label": "C05 / capas / Título + fecho em faixa",
+        "file": "social-C05.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-C05.jpg"
+      },
+      {
+        "label": "C06 / capas / Cartão com alfinete",
+        "file": "social-C06.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-C06.jpg"
+      },
+      {
+        "label": "C07 / capas / Capa tipográfica centralizada",
+        "file": "social-C07.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-C07.jpg"
+      },
+      {
+        "label": "C08 / capas / Título expressivo sobre foto",
+        "file": "social-C08.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-C08.jpg"
+      },
+      {
+        "label": "C09 / capas / Título expressivo + recorte com conector",
+        "file": "social-C09.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-C09.jpg"
+      },
+      {
+        "label": "M14 / miolos / Estático tipográfico em três pesos + faixa lateral",
+        "file": "social-M14.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-M14.jpg"
+      },
+      {
+        "label": "Componentes social B (faixa, tags, etiquetas, conector, alfinete)",
+        "file": "social-componentes-b.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/social-componentes-b.jpg"
+      }
+    ],
+    "photos_october_2026": [
+      {
+        "label": "outubro consultorio bandeja",
+        "file": "fotos/outubro-consultorio-bandeja.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-consultorio-bandeja.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro conversa cha",
+        "file": "fotos/outubro-conversa-cha.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-conversa-cha.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro equipamento laser",
+        "file": "fotos/outubro-equipamento-laser.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-equipamento-laser.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro feixe laser",
+        "file": "fotos/outubro-feixe-laser.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-feixe-laser.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro fusca rosa",
+        "file": "fotos/outubro-fusca-rosa.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-fusca-rosa.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro halloween vela",
+        "file": "fotos/outubro-halloween-vela.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-halloween-vela.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro maos colo",
+        "file": "fotos/outubro-maos-colo.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-maos-colo.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro maos ventre",
+        "file": "fotos/outubro-maos-ventre.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-maos-ventre.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro mulher 50 sol",
+        "file": "fotos/outubro-mulher-50-sol.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-mulher-50-sol.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro mulher cabelo prata",
+        "file": "fotos/outubro-mulher-cabelo-prata.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-mulher-cabelo-prata.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro mulher cama",
+        "file": "fotos/outubro-mulher-cama.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-mulher-cama.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro mulher mao colo",
+        "file": "fotos/outubro-mulher-mao-colo.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-mulher-mao-colo.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro orquidea gota",
+        "file": "fotos/outubro-orquidea-gota.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-orquidea-gota.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro peonia macro",
+        "file": "fotos/outubro-peonia-macro.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-peonia-macro.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro petala macro",
+        "file": "fotos/outubro-petala-macro.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-petala-macro.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro rosas seca fresca",
+        "file": "fotos/outubro-rosas-seca-fresca.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-rosas-seca-fresca.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "outubro sombra mao",
+        "file": "fotos/outubro-sombra-mao.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/outubro-sombra-mao.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "vibrante academia cintura",
+        "file": "fotos/vibrante-academia-cintura.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/vibrante-academia-cintura.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "vibrante boca cuticula",
+        "file": "fotos/vibrante-boca-cuticula.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/vibrante-boca-cuticula.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "vibrante buque peonias",
+        "file": "fotos/vibrante-buque-peonias.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/vibrante-buque-peonias.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
+      },
+      {
+        "label": "vibrante mao ranunculo",
+        "file": "fotos/vibrante-mao-ranunculo.jpg",
+        "url": "https://raul138.github.io/clinica-deja-brand/fotos/vibrante-mao-ranunculo.jpg",
+        "note": "Referência gerada por IA; não representa paciente real."
       }
     ]
   },
-  "version": "3.3+social-1.0"
+  "version": "3.3+social-1.0 · social 1.1"
 }
