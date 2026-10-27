@@ -76,7 +76,7 @@ Todos os links abaixo apontam diretamente para arquivos públicos, sem exigir lo
 
 Carregue as fontes com @font-face usando as URLs TTF acima. Use os logos PNG nas respectivas URLs, mantendo a proporção e o respiro. Para imagens, consulte o mosaico da categoria correspondente antes de escolher ou gerar uma foto. As fotos dos mosaicos são referências geradas por IA.
 
-## Módulo social media 1.0 — referência vigente para artes
+## Módulo social media 1.0 (base; ver atualização 1.1 abaixo)
 
 Antes de criar posts, carrosséis, stories ou outras artes, leia [o guia social](https://raul138.github.io/clinica-deja-brand/guia-social-media.md) e consulte [o catálogo de layouts](https://raul138.github.io/clinica-deja-brand/catalogo-layouts.json). O [guia ilustrado](https://raul138.github.io/clinica-deja-brand/guia-social-media.pdf) classifica 19 referências em 4 capas, 2 encerramentos e 13 miolos. As 19 imagens estão disponíveis por URL absoluta no catálogo, classificadas em capas, encerramentos e miolos.
 
