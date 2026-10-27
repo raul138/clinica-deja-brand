@@ -12,6 +12,7 @@ Use estas regras para criar peças da Clínica Déjà, clínica de ginecologia r
 Priorize as opções 1 a 5. Off-white predomina; ameixa cria contraste. Consulte https://raul138.github.io/clinica-deja-brand/tokens.json para as oito combinações de aplicação, na ordem 1 2 3 4 / 5 6 7 8. Escalas derivadas claras e escuras possuem cinco níveis e não substituem as cores-base.
 
 ## Tipografia
+(Para títulos de capa em social, ver "Título expressivo em três vozes" no bloco 1.1 abaixo: entrelinha 84–88% e entreletras −5,5% / −2,5%.)
 Instrument Serif Regular: títulos. Instrument Serif Italic: ênfases curtas nos títulos. Figtree Light: corpo. Figtree SemiBold: subtítulos, etiquetas e chamadas. Entrelinha social: começar em 0,94 nos títulos curtos, ajustando até 1,04 para impedir colisões; corpo 1,22, blocos curtos 1,12. Entreletras: -0,015 em nos títulos e -0,01 em no corpo e etiquetas.
 
 ## Logo
